@@ -1,0 +1,19 @@
+
+.titleContainer {
+    background-color: black;
+    max-width: 100%;
+    width: 100%;
+}
+
+
+.title {
+    font-size: 2rem;    
+   background-color: black;
+   color: white;
+}
+
+.subtitle {
+    font-size: 1rem;
+    color: white;
+    
+}
