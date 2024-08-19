@@ -1,7 +1,10 @@
+
+import styles from "./Footer.module.css"
+
 export default function Footer() {
   return (
     <footer>
-      <p>Built with React ⚛️</p>
+      <p className={styles.footerText}>Built with React ⚛️</p>
     </footer>
   );
 }
