@@ -17,7 +17,6 @@ export default function Flashcards() {
   return (
     <>
       <Flashcard />
-      <Flashcard />
     </>
   );
 }

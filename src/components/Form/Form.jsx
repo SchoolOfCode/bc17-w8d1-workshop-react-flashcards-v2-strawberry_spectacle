@@ -1,7 +1,19 @@
 export default function Form() {
   return (
     <>
-        <p>TESTING</p>
+    <form>
+
+    <label for="question">Question:</label>
+    <input type="text" id="question" name="question"></input>
+
+    <label for="answer">Answer:</label>
+    <input type="text" id="answer" name="answer"></input>
+
+    <input type="submit" value="Add"></input>
+    </form>
+
     </>
   );
 }
+
+
